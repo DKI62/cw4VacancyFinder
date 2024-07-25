@@ -1,0 +1,856 @@
+[
+  {
+    "name": "Стажер-разработчик",
+    "url": "https://hh.ru/vacancy/103058314",
+    "salary_currency": "RUR",
+    "salary_from": 46000,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик 1С Middle / Senior",
+    "url": "https://hh.ru/vacancy/94535959",
+    "salary_currency": "RUR",
+    "salary_from": 170000,
+    "salary_to": null
+  },
+  {
+    "name": "HTML-верстальщик (Frontend Developer)",
+    "url": "https://hh.ru/vacancy/103121962",
+    "salary_currency": "BYR",
+    "salary_from": 1800,
+    "salary_to": null
+  },
+  {
+    "name": "Junior разработчик Front-end",
+    "url": "https://hh.ru/vacancy/104050465",
+    "salary_currency": "RUR",
+    "salary_from": 40000,
+    "salary_to": null
+  },
+  {
+    "name": "Frontend разработчик/дизайнер",
+    "url": "https://hh.ru/vacancy/104376192",
+    "salary_currency": "UZS",
+    "salary_from": 4000000,
+    "salary_to": null
+  },
+  {
+    "name": "Junior Android разработчик",
+    "url": "https://hh.ru/vacancy/104656354",
+    "salary_currency": "RUR",
+    "salary_from": 120000,
+    "salary_to": null
+  },
+  {
+    "name": "HTML-верстальщик / Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/104364733",
+    "salary_currency": "RUR",
+    "salary_from": 70000,
+    "salary_to": null
+  },
+  {
+    "name": "Front-end developer",
+    "url": "https://hh.ru/vacancy/102719632",
+    "salary_currency": "RUR",
+    "salary_from": 80000,
+    "salary_to": null
+  },
+  {
+    "name": "Junior программист Python",
+    "url": "https://hh.ru/vacancy/103110598",
+    "salary_currency": "RUR",
+    "salary_from": 60000,
+    "salary_to": null
+  },
+  {
+    "name": "Unity 3D Developer Junior",
+    "url": "https://hh.ru/vacancy/103525911",
+    "salary_currency": "RUR",
+    "salary_from": 30000,
+    "salary_to": null
+  },
+  {
+    "name": "Стажер-разработчик Python",
+    "url": "https://hh.ru/vacancy/104634531",
+    "salary_currency": "RUR",
+    "salary_from": 100000,
+    "salary_to": null
+  },
+  {
+    "name": "Junior Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/104564672",
+    "salary_currency": "RUR",
+    "salary_from": 35000,
+    "salary_to": null
+  },
+  {
+    "name": "Junior android разработчик",
+    "url": "https://hh.ru/vacancy/104493498",
+    "salary_currency": "RUR",
+    "salary_from": 50000,
+    "salary_to": null
+  },
+  {
+    "name": "Web-разработчик (Битрикс)",
+    "url": "https://hh.ru/vacancy/97997713",
+    "salary_currency": "RUR",
+    "salary_from": 230000,
+    "salary_to": null
+  },
+  {
+    "name": "Java-разработчик",
+    "url": "https://hh.ru/vacancy/99308644",
+    "salary_currency": "RUR",
+    "salary_from": 200000,
+    "salary_to": null
+  },
+  {
+    "name": "Java-разработчик",
+    "url": "https://hh.ru/vacancy/104449871",
+    "salary_currency": "KZT",
+    "salary_from": 700000,
+    "salary_to": null
+  },
+  {
+    "name": "Front-end разработчик",
+    "url": "https://hh.ru/vacancy/102807810",
+    "salary_currency": "RUR",
+    "salary_from": 250000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-разработчик Python / Middle Python Developer",
+    "url": "https://hh.ru/vacancy/104365620",
+    "salary_currency": "RUR",
+    "salary_from": 17000,
+    "salary_to": null
+  },
+  {
+    "name": "Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/104338243",
+    "salary_currency": "USD",
+    "salary_from": 2000,
+    "salary_to": null
+  },
+  {
+    "name": "Java разработчик",
+    "url": "https://hh.ru/vacancy/103100423",
+    "salary_currency": "UZS",
+    "salary_from": 35000000,
+    "salary_to": null
+  },
+  {
+    "name": "Python Django back-end developer",
+    "url": "https://hh.ru/vacancy/104332232",
+    "salary_currency": "BYR",
+    "salary_from": 2800,
+    "salary_to": null
+  },
+  {
+    "name": "Java-разработчик back-end",
+    "url": "https://hh.ru/vacancy/104541524",
+    "salary_currency": "RUR",
+    "salary_from": 180000,
+    "salary_to": null
+  },
+  {
+    "name": "Intern Python Developer / Стажер Python-разработчик",
+    "url": "https://hh.ru/vacancy/103317574",
+    "salary_currency": "RUR",
+    "salary_from": 150000,
+    "salary_to": null
+  },
+  {
+    "name": "Flutter разработчик (middle)",
+    "url": "https://hh.ru/vacancy/104531909",
+    "salary_currency": "UZS",
+    "salary_from": 6000000,
+    "salary_to": null
+  },
+  {
+    "name": "Strong Middle front-end Vue3 разработчик",
+    "url": "https://hh.ru/vacancy/104632536",
+    "salary_currency": "KZT",
+    "salary_from": 650000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/103132274",
+    "salary_currency": "UZS",
+    "salary_from": 5000000,
+    "salary_to": null
+  },
+  {
+    "name": "Web-разработчик",
+    "url": "https://hh.ru/vacancy/104645728",
+    "salary_currency": "KZT",
+    "salary_from": 300000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/104501157",
+    "salary_currency": "RUR",
+    "salary_from": 75000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/102219093",
+    "salary_currency": "RUR",
+    "salary_from": 85000,
+    "salary_to": null
+  },
+  {
+    "name": "Стажер-программист PHP / Младший разработчик(Pimcore)",
+    "url": "https://hh.ru/vacancy/103490723",
+    "salary_currency": "RUR",
+    "salary_from": 45000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/103721272",
+    "salary_currency": "RUR",
+    "salary_from": 140000,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик JS Frontend",
+    "url": "https://hh.ru/vacancy/104643560",
+    "salary_currency": "RUR",
+    "salary_from": 130000,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик Java (Java spring boot, JavaEE, EJB/Hibernate), Middle/ Senior",
+    "url": "https://hh.ru/vacancy/104638195",
+    "salary_currency": "KZT",
+    "salary_from": 600000,
+    "salary_to": null
+  },
+  {
+    "name": "Frontend developer (Strong junior+)",
+    "url": "https://hh.ru/vacancy/103712145",
+    "salary_currency": "USD",
+    "salary_from": 500,
+    "salary_to": null
+  },
+  {
+    "name": "Младший Backend-разработчик C#",
+    "url": "https://hh.ru/vacancy/103766269",
+    "salary_currency": "RUR",
+    "salary_from": 110000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/104664942",
+    "salary_currency": "RUR",
+    "salary_from": 160000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-стажер",
+    "url": "https://hh.ru/vacancy/95073712",
+    "salary_currency": "RUR",
+    "salary_from": 53000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист (разработка чат-ботов)",
+    "url": "https://hh.ru/vacancy/103608046",
+    "salary_currency": "RUR",
+    "salary_from": 183000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист .NET (C#, PostgreSQL)",
+    "url": "https://hh.ru/vacancy/104542820",
+    "salary_currency": "BYR",
+    "salary_from": 2400,
+    "salary_to": null
+  },
+  {
+    "name": "Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/102850297",
+    "salary_currency": "USD",
+    "salary_from": 2500,
+    "salary_to": null
+  },
+  {
+    "name": "Ведущий разработчик 1С",
+    "url": "https://hh.ru/vacancy/104161748",
+    "salary_currency": "RUR",
+    "salary_from": 350000,
+    "salary_to": null
+  },
+  {
+    "name": "PHP developer (Junior)",
+    "url": "https://hh.ru/vacancy/104236135",
+    "salary_currency": "RUR",
+    "salary_from": 65000,
+    "salary_to": null
+  },
+  {
+    "name": "Web-разработчик (Backend)",
+    "url": "https://hh.ru/vacancy/103106373",
+    "salary_currency": "RUR",
+    "salary_from": 210000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/104647565",
+    "salary_currency": "BYR",
+    "salary_from": 630,
+    "salary_to": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/103201287",
+    "salary_currency": "RUR",
+    "salary_from": 115000,
+    "salary_to": null
+  },
+  {
+    "name": "БизДев / Business Development Manager ( Crypto )",
+    "url": "https://hh.ru/vacancy/102918038",
+    "salary_currency": "USD",
+    "salary_from": 3000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист (без опыта работы)",
+    "url": "https://hh.ru/vacancy/101833594",
+    "salary_currency": "RUR",
+    "salary_from": 105000,
+    "salary_to": null
+  },
+  {
+    "name": "Business Development Manager/BDM",
+    "url": "https://hh.ru/vacancy/104344553",
+    "salary_currency": "EUR",
+    "salary_from": 3500,
+    "salary_to": null
+  },
+  {
+    "name": "Оператор - программист станков с ЧПУ (листогибочный)",
+    "url": "https://hh.ru/vacancy/99032651",
+    "salary_currency": "RUR",
+    "salary_from": 101000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер ПНР / программист АСУ ТП (Siemens PCS 7 / STEP7 / WinCC)",
+    "url": "https://hh.ru/vacancy/103076654",
+    "salary_currency": "RUR",
+    "salary_from": 240000,
+    "salary_to": null
+  },
+  {
+    "name": "PHP-разработчик",
+    "url": "https://hh.ru/vacancy/104362328",
+    "salary_currency": "BYR",
+    "salary_from": 6000,
+    "salary_to": null
+  },
+  {
+    "name": "Business Development Manager / Sales Agent",
+    "url": "https://hh.ru/vacancy/104177814",
+    "salary_currency": "EUR",
+    "salary_from": 4500,
+    "salary_to": null
+  },
+  {
+    "name": "Junior Fronted-разработчик (Томск)",
+    "url": "https://hh.ru/vacancy/103886325",
+    "salary_currency": "RUR",
+    "salary_from": 5700,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик 1С-Bitrix (Битрикс)",
+    "url": "https://hh.ru/vacancy/94771002",
+    "salary_currency": "RUR",
+    "salary_from": 190000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист (Junior)",
+    "url": "https://hh.ru/vacancy/103588147",
+    "salary_currency": "RUR",
+    "salary_from": 79000,
+    "salary_to": null
+  },
+  {
+    "name": "Стажер-программист",
+    "url": "https://hh.ru/vacancy/103057173",
+    "salary_currency": "RUR",
+    "salary_from": 31600,
+    "salary_to": null
+  },
+  {
+    "name": "Web-разработчик",
+    "url": "https://hh.ru/vacancy/104129372",
+    "salary_currency": "RUR",
+    "salary_from": 146000,
+    "salary_to": null
+  },
+  {
+    "name": "Middle Fronted разработчик",
+    "url": "https://hh.ru/vacancy/104154427",
+    "salary_currency": "USD",
+    "salary_from": 1000,
+    "salary_to": null
+  },
+  {
+    "name": "Стажер-разработчик React",
+    "url": "https://hh.ru/vacancy/97732359",
+    "salary_currency": "RUR",
+    "salary_from": 20000,
+    "salary_to": null
+  },
+  {
+    "name": "Frontend developer (Партнерская компания в Узбекистане)",
+    "url": "https://hh.ru/vacancy/103466859",
+    "salary_currency": "RUR",
+    "salary_from": 220000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист C++ /Qt",
+    "url": "https://hh.ru/vacancy/104137940",
+    "salary_currency": "RUR",
+    "salary_from": 57500,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист АСУТП",
+    "url": "https://hh.ru/vacancy/104536448",
+    "salary_currency": "BYR",
+    "salary_from": 2750,
+    "salary_to": null
+  },
+  {
+    "name": "Программист на постоянную работу. Срочно!",
+    "url": "https://hh.ru/vacancy/103666592",
+    "salary_currency": "BYR",
+    "salary_from": 1200,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/104225956",
+    "salary_currency": "BYR",
+    "salary_from": 2185,
+    "salary_to": null
+  },
+  {
+    "name": "Младший программист 1С",
+    "url": "https://hh.ru/vacancy/92442500",
+    "salary_currency": "RUR",
+    "salary_from": 72600,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист (системый администратор)",
+    "url": "https://hh.ru/vacancy/104417553",
+    "salary_currency": "BYR",
+    "salary_from": 1500,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/100591334",
+    "salary_currency": "RUR",
+    "salary_from": 152685,
+    "salary_to": null
+  },
+  {
+    "name": "Стажер-разработчик Javascript (US)",
+    "url": "https://hh.ru/vacancy/103007159",
+    "salary_currency": "USD",
+    "salary_from": 200,
+    "salary_to": null
+  },
+  {
+    "name": "Junior Разработчик 1С",
+    "url": "https://hh.ru/vacancy/103050315",
+    "salary_currency": "RUR",
+    "salary_from": 104000,
+    "salary_to": null
+  },
+  {
+    "name": "Frontend разработчик (React)",
+    "url": "https://hh.ru/vacancy/103123361",
+    "salary_currency": "RUR",
+    "salary_from": 73500,
+    "salary_to": null
+  },
+  {
+    "name": "Программист 1C (Автомобильный Холдинг)",
+    "url": "https://hh.ru/vacancy/93758877",
+    "salary_currency": "RUR",
+    "salary_from": 145000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-электронщик",
+    "url": "https://hh.ru/vacancy/103788242",
+    "salary_currency": "KZT",
+    "salary_from": 800000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/103560232",
+    "salary_currency": "RUR",
+    "salary_from": 128000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист PHP (Yii2/Laravel)",
+    "url": "https://hh.ru/vacancy/104228342",
+    "salary_currency": "BYR",
+    "salary_from": 3300,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-системный программист МКУ «УКС Сургутского района»",
+    "url": "https://hh.ru/vacancy/104234912",
+    "salary_currency": "RUR",
+    "salary_from": 69500,
+    "salary_to": null
+  },
+  {
+    "name": ".NET Backend Developer",
+    "url": "https://hh.ru/vacancy/104466298",
+    "salary_currency": "KZT",
+    "salary_from": 1100000,
+    "salary_to": null
+  },
+  {
+    "name": "Бэкенд-разработчик",
+    "url": "https://hh.ru/vacancy/98786417",
+    "salary_currency": "RUR",
+    "salary_from": 59100,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик С #",
+    "url": "https://hh.ru/vacancy/104248006",
+    "salary_currency": "RUR",
+    "salary_from": 129000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист 1С",
+    "url": "https://hh.ru/vacancy/104554072",
+    "salary_currency": "BYR",
+    "salary_from": 4000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист",
+    "url": "https://hh.ru/vacancy/101637559",
+    "salary_currency": "RUR",
+    "salary_from": 24242,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-стажер 1C",
+    "url": "https://hh.ru/vacancy/104266944",
+    "salary_currency": "RUR",
+    "salary_from": 58000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист 1C стажер",
+    "url": "https://hh.ru/vacancy/89860554",
+    "salary_currency": "RUR",
+    "salary_from": 47000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист УП для ЧПУ",
+    "url": "https://hh.ru/vacancy/103826542",
+    "salary_currency": "RUR",
+    "salary_from": 125000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист II категории ОВСЭиР ИУС",
+    "url": "https://hh.ru/vacancy/104520504",
+    "salary_currency": "RUR",
+    "salary_from": 56000,
+    "salary_to": null
+  },
+  {
+    "name": "Ведущий инженер-программист",
+    "url": "https://hh.ru/vacancy/104162585",
+    "salary_currency": "RUR",
+    "salary_from": 126000,
+    "salary_to": null
+  },
+  {
+    "name": "Middle Front End Developer",
+    "url": "https://hh.ru/vacancy/103149333",
+    "salary_currency": "USD",
+    "salary_from": 2300,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист Архивной службы при МЦР",
+    "url": "https://hh.ru/vacancy/103447451",
+    "salary_currency": "KGS",
+    "salary_from": 18000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/103660473",
+    "salary_currency": "RUR",
+    "salary_from": 67000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер технолог программист",
+    "url": "https://hh.ru/vacancy/103471992",
+    "salary_currency": "RUR",
+    "salary_from": 237200,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист 1 С",
+    "url": "https://hh.ru/vacancy/104172979",
+    "salary_currency": "RUR",
+    "salary_from": 63000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист - стажер 1С",
+    "url": "https://hh.ru/vacancy/103692201",
+    "salary_currency": "RUR",
+    "salary_from": 25000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/88303939",
+    "salary_currency": "RUR",
+    "salary_from": 58995,
+    "salary_to": null
+  },
+  {
+    "name": "Техник-программист (стажер)",
+    "url": "https://hh.ru/vacancy/101499822",
+    "salary_currency": "BYR",
+    "salary_from": 554,
+    "salary_to": null
+  },
+  {
+    "name": "Web-developer, веб-разработчик, ux/ui, тильда, вордпресс (frontend, tilda, wordpress)",
+    "url": "https://hh.ru/vacancy/104067185",
+    "salary_currency": "KGS",
+    "salary_from": 15000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер- программист (товарный знак Вятка Банк)",
+    "url": "https://hh.ru/vacancy/97102006",
+    "salary_currency": "RUR",
+    "salary_from": 39000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист 1С middle (Удаленка/гибрид)",
+    "url": "https://hh.ru/vacancy/102075001",
+    "salary_currency": "RUR",
+    "salary_from": 229885,
+    "salary_to": null
+  },
+  {
+    "name": "Программист",
+    "url": "https://hh.ru/vacancy/104553919",
+    "salary_currency": "RUR",
+    "salary_from": 27000,
+    "salary_to": null
+  },
+  {
+    "name": "Ведущий разработчик 1C",
+    "url": "https://hh.ru/vacancy/104413668",
+    "salary_currency": "RUR",
+    "salary_from": 352000,
+    "salary_to": null
+  },
+  {
+    "name": "Web-мастер (Full-stack developer)",
+    "url": "https://hh.ru/vacancy/104089609",
+    "salary_currency": "KZT",
+    "salary_from": 500000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист - наладчик станков с ЧПУ",
+    "url": "https://hh.ru/vacancy/104503461",
+    "salary_currency": "RUR",
+    "salary_from": 135000,
+    "salary_to": null
+  },
+  {
+    "name": "Оператор-наладчик/программист станков ЧПУ (фрезерная группа Fanuc 0i MF)",
+    "url": "https://hh.ru/vacancy/102670999",
+    "salary_currency": "RUR",
+    "salary_from": 172414,
+    "salary_to": null
+  },
+  {
+    "name": "Программист 1С",
+    "url": "https://hh.ru/vacancy/104087889",
+    "salary_currency": "RUR",
+    "salary_from": 270000,
+    "salary_to": null
+  },
+  {
+    "name": "Web-разработчик Wordperss (подработка)",
+    "url": "https://hh.ru/vacancy/102924429",
+    "salary_currency": "RUR",
+    "salary_from": 55000,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик Android приложений (Gambling)",
+    "url": "https://hh.ru/vacancy/103886614",
+    "salary_currency": "USD",
+    "salary_from": 800,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/103029882",
+    "salary_currency": "RUR",
+    "salary_from": 33000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-схемотехник-программист",
+    "url": "https://hh.ru/vacancy/104638460",
+    "salary_currency": "BYR",
+    "salary_from": 1400,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист 1 категории",
+    "url": "https://hh.ru/vacancy/103069259",
+    "salary_currency": "RUR",
+    "salary_from": 95000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/104118016",
+    "salary_currency": "RUR",
+    "salary_from": 46700,
+    "salary_to": null
+  },
+  {
+    "name": "Начинающий Программист 1С/Сервис инженер 1С",
+    "url": "https://hh.ru/vacancy/104331197",
+    "salary_currency": "RUR",
+    "salary_from": 40230,
+    "salary_to": null
+  },
+  {
+    "name": "Ведущий программист 1С",
+    "url": "https://hh.ru/vacancy/102923903",
+    "salary_currency": "RUR",
+    "salary_from": 320000,
+    "salary_to": null
+  },
+  {
+    "name": "PHP-программист 1C-Bitrix",
+    "url": "https://hh.ru/vacancy/103895988",
+    "salary_currency": "RUR",
+    "salary_from": 260000,
+    "salary_to": null
+  },
+  {
+    "name": "Специалист (программист / администратор по информационным технологиям).",
+    "url": "https://hh.ru/vacancy/103132489",
+    "salary_currency": "BYR",
+    "salary_from": 750,
+    "salary_to": null
+  },
+  {
+    "name": "Программист 1C",
+    "url": "https://hh.ru/vacancy/101344166",
+    "salary_currency": "RUR",
+    "salary_from": 121000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист",
+    "url": "https://hh.ru/vacancy/102645422",
+    "salary_currency": "RUR",
+    "salary_from": 57000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/103194959",
+    "salary_currency": "RUR",
+    "salary_from": 106000,
+    "salary_to": null
+  },
+  {
+    "name": "Python-разработчик Machine Learning / Computer Vision",
+    "url": "https://hh.ru/vacancy/104636062",
+    "salary_currency": "RUR",
+    "salary_from": 400000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/104232888",
+    "salary_currency": "RUR",
+    "salary_from": 36000,
+    "salary_to": null
+  },
+  {
+    "name": "Java-разработчик Camunda",
+    "url": "https://hh.ru/vacancy/104584991",
+    "salary_currency": "RUR",
+    "salary_from": 280000,
+    "salary_to": null
+  },
+  {
+    "name": "Frontend-разработчик (middle)",
+    "url": "https://hh.ru/vacancy/101609261",
+    "salary_currency": "RUR",
+    "salary_from": 175000,
+    "salary_to": null
+  },
+  {
+    "name": "Web-программист",
+    "url": "https://hh.ru/vacancy/103018655",
+    "salary_currency": "RUR",
+    "salary_from": 179000,
+    "salary_to": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/96109318",
+    "salary_currency": "RUR",
+    "salary_from": 66000,
+    "salary_to": null
+  },
+  {
+    "name": "Помощник (ученик) оператора - программиста станков с ЧПУ (листогибочный)",
+    "url": "https://hh.ru/vacancy/104467670",
+    "salary_currency": "RUR",
+    "salary_from": 88000,
+    "salary_to": null
+  }
+]
